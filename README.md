@@ -1,1 +1,3 @@
-# manejo-de-datos
+# Manejo de datos
+
+Espacio para compartir materiales del curso
